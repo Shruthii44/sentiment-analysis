@@ -1,3 +1,5 @@
+joblib==1.5.3
+streamlit==1.53.1
 # Core packages
 streamlit==1.53.1
 joblib==1.5.3
@@ -22,5 +24,6 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 six==1.17.0
 typing_extensions==4.15.0
+
 
 
