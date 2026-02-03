@@ -1,9 +1,10 @@
-python
-streamlit
+python==3.11
+streamlit==1.53.1
 pandas
 numpy
-joblib
+joblib==1.5.3
 scikit-learn==1.6.1
+
 
 
 
