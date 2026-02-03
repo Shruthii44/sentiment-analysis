@@ -1,18 +1,15 @@
-# Core packages
 joblib==1.5.3
 streamlit==1.53.1
 numpy==1.26.1
 pandas==2.3.3
 scikit-learn==1.6.1
-
-# Optional visualization
+nltk==3.9.2
+regex==2026.1.15
 altair==6.0.0
 pydeck==0.9.1
 pillow==12.1.0
 
-# NLP for sentiment analysis
-nltk==3.9.2
-regex==2026.1.15
+
 
 
 
